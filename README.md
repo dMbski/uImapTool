@@ -1,7 +1,7 @@
 # uImapTool
 Very simply IMAP data (emails) manipulation program.
 
-On first stage of dewelopment (super pre alpha), USE only on OWN Risk.
+On first stage of development (super pre alpha), USE only on OWN Risk.
 
 Uses:
 - Ararat Synapse, www.ararat.cz/synapse/
