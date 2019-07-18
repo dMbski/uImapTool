@@ -1,6 +1,6 @@
 # uImapTool 
 Very simply IMAP data (emails) manipulation program, directly on server.
-On first stage of development (super_pre_alpha), USE only on OWN Risk.
+On first stage of development (super_pre_alpha), __use only on OWN risk.__
 
 <img src="https://github.com/dMbski/uImapTool/raw/master/screens/Schowek01.jpg" /><img src="https://github.com/dMbski/uImapTool/raw/master/screens/Schowek02.jpg" />
 
